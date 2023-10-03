@@ -1,6 +1,5 @@
 # main.py
 # micropython for esp32s3 devkitc-1 v0.1
-# Himanshu Tripathi
 
 # connect esp32s3 devkit with wifi
 # access the website and get the data from website using get method
