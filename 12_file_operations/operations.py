@@ -1,6 +1,5 @@
 # main.py
 # micropython for esp32s3 devkitc-1 v0.1
-# Himanshu Tripathi
 
 # the basic operations one can perform to access
 # and manipulate files on the ESP32 file system
