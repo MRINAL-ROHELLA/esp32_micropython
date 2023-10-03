@@ -1,6 +1,5 @@
 # main.py
 # micropython for esp32s3 devkitc-1 v0.1
-# Himanshu Tripathi
 
 # get the time and date from internet using esp32s3 devkit
 # using ntptime module which allows to synchronize the
